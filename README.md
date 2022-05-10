@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Stephen.
+### Hi there 👋 My name is Stepan.
 
 - 🌱 I’m currently learning Nuxt.js
 - 📫 How to reach me: tg:@lelonov
