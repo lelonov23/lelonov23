@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I used to work as an English language tutor :) 
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelonov23&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelonov23&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
