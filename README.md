@@ -3,7 +3,16 @@
 ## About me:
 
 - 🌱 I’m currently learning Nuxt.js
+
 - 😄 Pronouns: he/him
+
+- ⚡ Fun fact: I am an avid laguage learner :)
+
+## Contact Me
+
+- Twitter: [@lelonov](https://twitter.com/lelonov)
+- Telegram: [@lelonov](https://t.me/lelonov/)
+- E-mail: [leonovstepan.jobs@outlook.com](mailto:leonovstepan.jobs@outlook.com)
 
 ## My stats:
 
