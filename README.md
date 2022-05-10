@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I am an avid laguage learner :)
+- ⚡ Fun fact: I am an avid language learner :)
 
 ## Contact Me
 
