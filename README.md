@@ -3,9 +3,7 @@
 ## About me:
 
 - 🌱 I’m currently learning Nuxt.js
-- 📫 How to reach me: tg:@lelonov
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to work as an English language tutor :) 
 
 ## My stats:
 
