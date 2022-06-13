@@ -6,8 +6,6 @@
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I am an avid language learner :)
-
 ## Contact Me
 
 - Twitter: [@lelonov](https://twitter.com/lelonov)
