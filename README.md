@@ -6,7 +6,6 @@
 
 ## Contact Me
 
-- Twitter: [@lelonov](https://twitter.com/lelonov)
 - Telegram: [@lelonov](https://t.me/lelonov23/)
 - E-mail: [leonovstepan.jobs@outlook.com](mailto:leonovstepan.jobs@outlook.com)
 
