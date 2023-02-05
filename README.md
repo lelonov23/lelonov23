@@ -1,15 +1,13 @@
-![telegram-cloud-document-2-5465309866564262443](https://user-images.githubusercontent.com/86784174/167682623-2d8e94b8-eff3-4646-826b-6cdb3c774f98.jpg)
-
 ## About me:
 
-- 🌱 I’m currently learning Nuxt.js
+- 🌱 I’m currently learning Go
 
 - 😄 Pronouns: he/him
 
 ## Contact Me
 
 - Twitter: [@lelonov](https://twitter.com/lelonov)
-- Telegram: [@lelonov](https://t.me/lelonov/)
+- Telegram: [@lelonov](https://t.me/lelonov23/)
 - E-mail: [leonovstepan.jobs@outlook.com](mailto:leonovstepan.jobs@outlook.com)
 
 ## My stats:
