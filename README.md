@@ -2,11 +2,10 @@
 
 - 🌱 I’m currently learning Go
 
-- 😄 Pronouns: he/him
 
 ## Contact Me
 
-- Telegram: [@lelonov23](https://t.me/lelonov23/)
+- Telegram: [@locturui](https://t.me/locturui/)
 - E-mail: [leonovstepan.jobs@outlook.com](mailto:leonovstepan.jobs@outlook.com)
 
 ## My stats:
