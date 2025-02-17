@@ -1,7 +1,7 @@
 ### <h2 align="left">Hey There 👋 </h1>
 <!-- ![Intro Gif](src/introGif.gif) -->
 <!-- ### <img src="header.png"> -->
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go, Dart and Flutter
 
 ## Contact Me
 
